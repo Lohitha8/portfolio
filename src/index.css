@@ -1,14 +1,36 @@
-.home {
-  background-color: black;
-  color: white;
-  height: 100vh;
+.iam{
+  color: red;
+}
+body {
+  background-color: black !important;
+  color: white !important;
+  height: 90vh;
 }
 .nav-link {
   color: white !important;
   padding-right: 40px !important;
 }
 
+.nav-link:hover {
+  color: red !important;
+}
+
+.active {
+  color: red !important;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: rgba(0,0,0,.9);
+}
+
+.navbar-brand:hover{
+  color: red !important;
+}
+
 .nav-header {
+  color: white !important;
+}
+.navbar-toggler-icon {
   color: white !important;
 }
 

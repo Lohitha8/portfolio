@@ -1,21 +1,21 @@
 import christmaslogo from '../assets/christmas.jpg'
 
-import {Image} from 'react-bootstrap'
+import { Image } from 'react-bootstrap'
 
 function About() {
     return (
         <div>
-            <div className='row justify-content-center'>
+            <div className='row justify-content-center' style={{ padding: '20px 0px 20px 0px' }}>
                 <div className="m-auto">
-                    <h6>Get to Know me</h6>
+                    <h6 style={{textAlign:'center'}}>Get to Know me</h6>
                     <h1>About Me</h1>
                 </div>
             </div>
             <div className='row justify-content-center'>
                 <div className='col-2'></div>
                 <div className='col-3'>
-                <Image src={christmaslogo} width='250' height='300' roundedCircle />
-                    
+                    <Image src={christmaslogo} width='250' height='280' roundedCircle />
+
                 </div>
                 <div className='col-5 margin-80'>
                     <h5>Who am i ?</h5>

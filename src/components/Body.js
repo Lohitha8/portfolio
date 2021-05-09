@@ -1,11 +1,19 @@
+import TextLoop from "react-text-loop";
 
 function Body() {
     return (
         <div className='row body-container'>
             {/* <img className='home-image' width='350' src={home} /> */}
             <div className='m-auto'>
-                <h1>Lohitha Goddati</h1>
-                <h6>I am a Developer</h6>
+                <h1>
+                    <span className='iam'>I am </span>{' '}
+                    <TextLoop
+                        // springConfig={{ stiffness: 1, damping: 1 }} adjustingSpeed={10}
+                    >
+                        <span>Lohitha Goddati</span>
+                        <span>MERN Developer</span>
+                    </TextLoop>
+                </h1>
             </div>
         </div>
 
