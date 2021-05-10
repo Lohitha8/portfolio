@@ -3,6 +3,7 @@
         {
             "key": 1,
             "name": "GitHub clone",
+            "image":"githubClone",
             "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/GitHub",
             "deployedlink": "https://lohitha8.github.io/Learning/GitHub/index.html",
             "description": "A simple GitHub clone project where we can access github public repositries based on the username"
@@ -11,6 +12,7 @@
         {
            "key": 2,
             "name": "TV-Shows",
+            "image":"tvshows",
             "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Televison",
             "deployedlink": "https://lohitha8.github.io/Learning/Televison/index.html",
             "description": "A sample TV shows project where users can have a look on shows based on the names"
@@ -19,6 +21,7 @@
         {
             "key": 3,
              "name": "Invoice",
+             "image":"invoice",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/invoice",
              "deployedlink": "https://lohitha8.github.io/Learning/invoice/dist/index.html",
              "description": "An application where user can deposit & paybills and resp invoice will be generated."
@@ -27,6 +30,7 @@
          {
             "key": 4,
              "name": "Giphy-Search",
+             "image":"giphy",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Giphy_search",
              "deployedlink": "https://lohitha8.github.io/Learning/Giphy_search/index.html",
              "description": "A basic Giphy search Application where we can find various GIFs based on the name we search for"
@@ -35,6 +39,7 @@
          {
             "key": 5,
              "name": "Resume",
+             "image":"resume",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Task6",
              "deployedlink": "https://peaceful-bassi-b20f41.netlify.app/task6/",
              "description": "A basic HTML and CSS project which showcase Profile data with Rich UI Experience."
@@ -43,6 +48,7 @@
          {
             "key": 6,
              "name": "NewsPaper",
+             "image":"newspaper",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Task7",
              "deployedlink": "https://lohitha8.github.io/Learning/Task7/",
              "description": "A basic HTML and CSS project with Rich UI experience and flexible layout."
@@ -51,6 +57,7 @@
          {
             "key": 7,
              "name": "CurrencyConverter",
+             "image":"currency",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Curriencies",
              "deployedlink": "https://lohitha8.github.io/Learning/Curriencies/index.html",
              "description": "Currency Converter where rupees converted in to five different curriencies"
@@ -59,6 +66,7 @@
          {
             "key": 8,
              "name": "Circle",
+             "image":"circle",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Circle",
              "deployedlink": "https://lohitha8.github.io/Learning/Circle/",
              "description": "A typescript project where we can calculate AREA and CIRCUMFERENCE of a circle"

@@ -1,6 +1,6 @@
 import { CircularProgressbar, buildStyles, CircularProgressbarWithChildren } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
-import { easeQuadInOut } from "d3-ease";
+// import { easeQuadInOut } from "d3-ease";
 
 var htmlSkills = {
     // Customize the root svg element
@@ -8,7 +8,7 @@ var htmlSkills = {
     // Customize the path, i.e. the "completed progress"
     path: {
         // Path color
-        stroke: `#f00`,
+        stroke: `rgb(219, 44, 181)`,
         // Whether to use rounded or flat corners on the ends - can use 'butt' or 'round'
         strokeLinecap: 'round',
         // Customize transition animation
@@ -48,7 +48,7 @@ function Skills() {
                 <CircularProgressbarWithChildren value={90} styles={buildStyles({
                     pathTransition:
                         90 === 0 ? "none" : "stroke-dashoffset 0.5s ease 0s",
-                    pathColor: '#f00',
+                    pathColor: 'rgb(219, 44, 181)',
                     textColor: '#fff'
                 })} >
                     <h1>HTML</h1>
@@ -61,7 +61,7 @@ function Skills() {
                 <CircularProgressbarWithChildren value={85} styles={buildStyles({
                     pathTransition:
                         90 === 0 ? "none" : "stroke-dashoffset 0.5s ease 0s",
-                    pathColor: '#f00',
+                    pathColor: 'rgb(219, 44, 181)',
                     textColor: '#fff'
                 })} >
                     <h1>CSS</h1>
@@ -74,7 +74,7 @@ function Skills() {
                 <CircularProgressbarWithChildren value={75} styles={buildStyles({
                     pathTransition:
                         90 === 0 ? "none" : "stroke-dashoffset 0.5s ease 0s",
-                    pathColor: '#f00',
+                    pathColor: 'rgb(219, 44, 181)',
                     textColor: '#fff'
                 })} >
                     <h1>JS</h1>
@@ -86,7 +86,7 @@ function Skills() {
                 <CircularProgressbarWithChildren value={75} styles={buildStyles({
                     pathTransition:
                         90 === 0 ? "none" : "stroke-dashoffset 0.5s ease 0s",
-                    pathColor: '#f00',
+                    pathColor: 'rgb(219, 44, 181)',
                     textColor: '#fff'
                 })} >
                     <h1>React</h1>

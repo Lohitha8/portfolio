@@ -1,5 +1,5 @@
 .iam{
-  color: red;
+  color: rgb(219, 44, 181);
 }
 body {
   background-color: black !important;
@@ -12,11 +12,11 @@ body {
 }
 
 .nav-link:hover {
-  color: red !important;
+  color: rgb(219, 44, 181) !important;
 }
 
 .active {
-  color: red !important;
+  color: rgb(219, 44, 181) !important;
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
@@ -24,7 +24,7 @@ body {
 }
 
 .navbar-brand:hover{
-  color: red !important;
+  color: rgb(179, 177, 177) !important;
 }
 
 .nav-header {

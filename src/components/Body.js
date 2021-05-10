@@ -11,7 +11,7 @@ function Body() {
                         // springConfig={{ stiffness: 1, damping: 1 }} adjustingSpeed={10}
                     >
                         <span>Lohitha Goddati</span>
-                        <span>MERN Developer</span>
+                        <span>Frontend Developer</span>
                     </TextLoop>
                 </h1>
             </div>
