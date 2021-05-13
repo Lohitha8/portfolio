@@ -41,14 +41,6 @@
             "description": "A basic Giphy search Application where we can find various GIFs based on the name we search for"
         },
         {
-            "key": 6,
-            "name": "Resume",
-            "image": "resume",
-            "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Task6",
-            "deployedlink": "https://peaceful-bassi-b20f41.netlify.app/task6/",
-            "description": "A basic HTML and CSS project which showcase Profile data with Rich UI Experience."
-        },
-        {
             "key": 7,
             "name": "CurrencyConverter",
             "image": "currency",
@@ -63,14 +55,6 @@
             "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Circle",
             "deployedlink": "https://lohitha8.github.io/Learning/Circle/",
             "description": "A typescript project where we can calculate AREA and CIRCUMFERENCE of a circle"
-        },
-        {
-            "key": 6,
-            "name": "NewsPaper",
-            "image": "newspaper",
-            "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Task7",
-            "deployedlink": "https://lohitha8.github.io/Learning/Task7/",
-            "description": "A basic HTML and CSS project with Rich UI experience and flexible layout."
         }
     ]
 }

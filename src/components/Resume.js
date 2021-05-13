@@ -43,7 +43,7 @@ function Resume() {
                 </Card>
             </div>
             <div className='row' style={{ justifyContent: 'center' }}>
-                <p>For more info : <a target='_blank' href='https://peaceful-bassi-b20f41.netlify.app/task6/'>Click Here</a>  </p> 
+                <p>For more info : <a target='_blank' href='https://drive.google.com/file/d/1ZS1oizIqWpOK7isz4UfVqbFhjClAVO1K/view?usp=sharing'>Click Here</a>  </p> 
             </div>
         </div>
     )
