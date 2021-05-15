@@ -9,6 +9,7 @@ import newspaper from '../assets/news-paper.PNG'
 import resume from '../assets/resume.PNG'
 import tvshows from '../assets/tv-shows.PNG'
 import cosmetics from '../assets/cosmetics.PNG'
+import todo from '../assets/todo.PNG'
 
 function getImage(value) {
 
@@ -35,6 +36,8 @@ function getImage(value) {
 
         case 'circle':
             return circle;
+        case 'todo':
+            return todo;
 
         case 'cosmetics':
             return cosmetics;
