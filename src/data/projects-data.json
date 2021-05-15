@@ -2,6 +2,14 @@
     "projects-data": [
         {
             "key": 1,
+            "name": "Cosmetics Hub",
+            "image":"cosmetics",
+            "repositorylink": "https://github.com/Lohitha8/cosmetic-hub",
+            "deployedlink": "https://cosmetics-hub.herokuapp.com/",
+            "description": "A simple GitHub clone project where we can access github public repositries based on the username"
+        },
+        {
+            "key": 2,
             "name": "GitHub clone",
             "image":"githubClone",
             "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/GitHub",
@@ -10,7 +18,7 @@
         },
         
         {
-           "key": 2,
+           "key": 3,
             "name": "TV-Shows",
             "image":"tvshows",
             "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Televison",
@@ -19,7 +27,7 @@
         },
 
         {
-            "key": 3,
+            "key": 4,
              "name": "Invoice",
              "image":"invoice",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/invoice",
@@ -28,7 +36,7 @@
          },
 
          {
-            "key": 4,
+            "key": 5,
              "name": "Giphy-Search",
              "image":"giphy",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Giphy_search",
@@ -37,7 +45,7 @@
          },
 
          {
-            "key": 5,
+            "key": 6,
              "name": "Resume",
              "image":"resume",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Task6",
@@ -46,7 +54,7 @@
          },
 
          {
-            "key": 6,
+            "key": 7,
              "name": "NewsPaper",
              "image":"newspaper",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Task7",
@@ -55,7 +63,7 @@
          },
           
          {
-            "key": 7,
+            "key": 8,
              "name": "CurrencyConverter",
              "image":"currency",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Curriencies",
@@ -64,7 +72,7 @@
          },
 
          {
-            "key": 8,
+            "key": 9,
              "name": "Circle",
              "image":"circle",
              "repositorylink": "https://github.com/Lohitha8/Learning/tree/main/Circle",

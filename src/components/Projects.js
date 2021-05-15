@@ -8,6 +8,7 @@ import invoice from '../assets/invoice.PNG'
 import newspaper from '../assets/news-paper.PNG'
 import resume from '../assets/resume.PNG'
 import tvshows from '../assets/tv-shows.PNG'
+import cosmetics from '../assets/cosmetics.PNG'
 
 function getImage(value) {
 
@@ -35,6 +36,8 @@ function getImage(value) {
         case 'circle':
             return circle;
 
+        case 'cosmetics':
+            return cosmetics;
 
         default:
             break;
